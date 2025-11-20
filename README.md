@@ -2,11 +2,16 @@
 
 1- Instalar python: 
 
-2- Verificar versão:  'python3 --version 
+## Verificar versão:  'python3 --version 
 
 ## PIP
-Versão: 
-´pip --version    
+
+### Versão:
 py -m pip --version
 
-### Upade: py -m pip install --upgrade pip
+### Upgrade: 
+py -m pip install --upgrade pip
+
+
+## PY
+py -m pip install pyodbc
