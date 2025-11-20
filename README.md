@@ -16,3 +16,9 @@ py -m pip install --upgrade pip
 
 ## PYODBC
 py -m pip install pyodbc
+
+
+
+## VSCODE 
+
+### 
