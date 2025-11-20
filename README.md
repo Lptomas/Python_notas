@@ -1,6 +1,6 @@
-# Notas:
+# Python:
 
-1- Instalar python: 
+## Instalar python: https://www.python.org/downloads/
 
 ## Verificar versão:  'python3 --version 
 
@@ -13,5 +13,6 @@ py -m pip --version
 py -m pip install --upgrade pip
 
 
-## PY
+
+## PYODBC
 py -m pip install pyodbc
