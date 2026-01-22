@@ -21,4 +21,17 @@ py -m pip install pyodbc
 
 ## VSCODE 
 
-### 
+## Criar um Ambiente Virtual
+
+python -m venv myenv
+
+cd myenv/
+
+source bin/activate
+
+--Agora está activado
+
+
+pip install textual
+
+pip install textual-dev
